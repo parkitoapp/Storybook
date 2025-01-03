@@ -18,5 +18,5 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
     "nativewind-env.d.ts"
-  ]
+, ".storybook/stories/Button/button.stories.tsx", ".storybook/stories/Button/button.tsx"  ]
 }
